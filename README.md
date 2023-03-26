@@ -5,7 +5,7 @@
 - KKWEBSRV - Aplikāciju WEB serveris
 - KKDBSRV - DB Serveris
 Bilde ar Wordpress lapu:
-![Arhitektūras risinājums](https://github.com/kostixxa/md4/blob/main/wordpress.png?raw=true")
+![wordpress](https://github.com/kostixxa/md4/blob/main/wordpress.png?raw=true")
 - Arhitektūras risinājums
 ![Arhitektūras risinājums](https://github.com/kostixxa/md4/blob/main/MD4.png?raw=true")
 - Aprēķināt izmaksas izmantojot AWS kalkulatorus. Rezultātam jābūt bildei un aprakstam MD
